@@ -15,3 +15,5 @@ Step 4: Removed test.csv
 
 Step 5: Refreshed screenshot of history
 ![Screenshot1](https://github.com/Shivam0712/PUI2018_skp454/blob/master/HW2_skp454/20180924_HW3_3.PNG)
+![Screenshot1](https://github.com/Shivam0712/PUI2018_skp454/blob/master/HW2_skp454/20180924_HW3_4.PNG)
+
