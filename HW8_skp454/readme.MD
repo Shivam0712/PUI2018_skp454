@@ -2,7 +2,7 @@
 
 #### Assignment 1: Make a plot
 
-1. The objective of this assignment is to make a well described reproducible plot:
+The objective of this assignment is to make a well described reproducible plot:
 
 ![image](https://github.com/Shivam0712/PUI2018_skp454/blob/master/HW8_skp454/SubwayTimeSeries.png)
 
