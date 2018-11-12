@@ -6,11 +6,16 @@
 
 1. The plot shows the frequency distribution of top 10 names of males and females in year 2016.
 2. The plot adheres to basic standards for clarity i.e.:
+    
     a. The axes are properly labeled
+    
     b. The facets are properly titled
+    
     c. The different names of males and females are clearly visible and are rotated at 45 degree which, enchances visibility.
 3. The plot adheres to basic standards for esthetic too:
+    
     a. The plot is used to present frequency distribution of categories thus, choice of bar graph is correct.
+    
     b. The plot consist  of single color, blue; thus, will be easy to visualize for everyone.
 
 Suggestions to further improve the plots:
