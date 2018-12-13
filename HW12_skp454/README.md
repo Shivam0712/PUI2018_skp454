@@ -13,4 +13,4 @@
 5. Plot the results of these cluster on NYC map.
 6. Compare clustering algorithms results and draw inferences.
 
-** I have used code for k mean clustering elbow plot from https://pythonprogramminglanguage.com/kmeans-elbow-method/ **
+**I have used code for k mean clustering elbow plot from https://pythonprogramminglanguage.com/kmeans-elbow-method/**
